@@ -1,0 +1,27 @@
+{
+    "dataset": "MovieLens 25M",
+    "run_id": "20261021T112109411641Z",
+    "ingested_at_utc": "2026-10-21T11:21:09.411641+00:00",
+    "source_url": "https://files.grouplens.org/datasets/movielens/ml-25m.zip",
+    "source_zip": "incoming\\ml-25m.zip",
+    "source_sha256": "8b21cfb7eb1706b4ec0aac894368d90acf26ebdfb6aced3ebd4ad5bd1eb9c6aa",
+    "status": "success",
+    "validation_scope": "extracted files exist and are non-empty",
+    "files": [
+        {
+            "path": "ml-25m/ratings.csv",
+            "bytes": 678260987,
+            "sha256": "9c85525758597dca76e8d98cebb9c13e018c2317b09a0878b6d383179526e385"
+        },
+        {
+            "path": "ml-25m/movies.csv",
+            "bytes": 3038099,
+            "sha256": "c50dea6973e619f9bc1decd4afa3e35358b83a5fb663dac0ec82252a011d023d"
+        },
+        {
+            "path": "ml-25m/README.txt",
+            "bytes": 10460,
+            "sha256": "3c3b3195c5bcff4950d0f4d7a127cf1b5a4e0dd5598e2641f58a743a79fdace1"
+        }
+    ]
+}

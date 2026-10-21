@@ -1,0 +1,5 @@
+{
+    "source_manifest": "data\\raw\\movielens25m\\ingest_date=2026-10-21\\run_20261021T112109411641Z\\manifest.json",
+    "selection": "First 100 records of each CSV",
+    "purpose": "Readability demo only; not a representative training sample"
+}
