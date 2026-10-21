@@ -1,0 +1,25 @@
+Dataset: MovieLens 25M
+Publisher: GroupLens, University of Minnesota
+Version: ml-25m
+
+Source page:
+https://grouplens.org/datasets/movielens/25m/
+
+Download URL:
+https://files.grouplens.org/datasets/movielens/ml-25m.zip
+
+Local archive:
+incoming/ml-25m.zip
+
+Selected data files:
+ratings.csv
+movies.csv
+
+Source fingerprint:
+See source_sha256 in the snapshot manifest.json.
+
+Usage conditions and citation:
+See ml-25m/README.txt inside the raw snapshot.
+
+Raw preservation:
+Selected files were extracted without changing their contents.
