@@ -1,14 +1,9 @@
-# \# Hệ thống gợi ý phim cá nhân hóa — Checkpoint 2
+\# Hệ thống gợi ý phim cá nhân hóa — Checkpoint 2
 
-# 
 
-# \## 1. Phạm vi đã triển khai
+\## 1. Phạm vi đã triển khai
+Checkpoint 2 thực hiện:
 
-# 
-
-# Checkpoint 2 thực hiện:
-
-# 
 
 # \- Thiết lập và kiểm tra môi trường Spark.
 
